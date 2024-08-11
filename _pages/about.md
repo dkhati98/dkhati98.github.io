@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am PhD candidate at College of William & Mary. I am working under [Dr. Denys Poshyvanyk](https://www.cs.wm.edu/~denys/). My research focuses on applying Deep Learning to Software Engineering tasks. At the moment, I am working on trustworthy, and interpretable Large Language Models for Software Engineering.
+I am a PhD candidate at College of William & Mary. I am working under [Dr. Denys Poshyvanyk](https://www.cs.wm.edu/~denys/). My research focuses on applying Deep Learning to Software Engineering tasks. At the moment, I am working on trustworthy, and interpretable Large Language Models for Software Engineering.
