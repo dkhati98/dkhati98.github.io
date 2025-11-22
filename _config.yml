@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dipin Khati"
 title_separator          : "-"
 name                     : &name "Dipin Khati"
-description              : &description "PhD Student at William & Mary"
+description              : &description "PhD Candidate in Computer Science at William & Mary | Research in Deep Learning for Software Engineering, Interpretable AI, and Large Language Models"
 url                      : https://dkhati98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dkhati98.github.io"
@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Dipin Khati"
   avatar           : "img272.jpg"
-  bio              : "PhD Student at William & Mary"
+  bio              : "PhD Candidate in Computer Science | Deep Learning for Software Engineering | Interpretable AI & Large Language Models"
   location         : "Williamsburg"
   employer         :
-  pubmed           : "#"
-  googlescholar    : "#"
+  googlescholar    : "https://scholar.google.com/citations?user=BsC5DE0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "#"
+  orcid            : "https://orcid.org/0009-0008-4489-7733"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
